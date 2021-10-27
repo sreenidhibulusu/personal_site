@@ -1,0 +1,119 @@
+.top-container{
+   background-color: #d6e0f0;
+    margin: 0; 
+}
+
+body {
+    text-align: center;
+    margin: 0rem;
+    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
+}
+h1{
+    margin-top: 0;
+    padding-top: 6.789rem;
+    font-size: 5.567rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-size: 2.46rem;
+    color: #66BFBF;
+}
+
+h3,a{
+    color: #11999E;
+}
+
+.profile-icon{
+    margin-top: 3.5%;
+    width: 15%;
+    border-radius: 50%;
+}
+
+.top-container{
+    margin: 0;
+    
+}
+
+.top-container h2{
+    font-weight: normal;
+    
+}
+
+
+.bottomcloud{
+    position: absolute;
+    left: 11.675rem;
+}
+
+.topcloud{
+    display: block;
+    position: absolute;
+    right: 200px;
+    margin-top:50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.first-skill{
+    width: 25%;
+    border-radius: 50%;
+    margin-right: 30px;
+    float: left;
+}
+
+.second-skill{
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+}
+
+hr{
+    padding: 0;
+    border-bottom:15px dotted #6989a8;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 15%;
+    margin: 100px auto 100px auto;
+    
+}
+
+.bottom-container{
+    background-color: #53e4ea;
+    padding: 70px 0;
+    margin-top: 30px;
+}
+
+.bottom-container p{
+    margin: 10px 0 0 0;
+    color: aliceblue;
+}
+
+.bottom-container a{
+    text-decoration: none;
+}
+
+
+.btn{
+    margin-bottom: 30rem;
+    margin-top: 30px;
+    text-decoration: none;
+    background-color: aquamarine;
+    border-radius: 15%;
+    padding: 15px;
+}
+
+.btn:hover{
+    color: #137174;
+    background-color: #6cd1af;
+}
+
+.contact-me p{
+    margin-bottom: 4rem;
+}
